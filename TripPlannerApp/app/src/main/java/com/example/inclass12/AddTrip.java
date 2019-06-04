@@ -56,9 +56,6 @@ public class AddTrip extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.trip_view);
-
-        // AIzaSyC1qNWLC-29M3duWnNZorjpkHymotMcfQw
-
         tn = (EditText) findViewById(R.id.editTripName);
         dc = (EditText)findViewById(R.id.editDestCity);
         city = new Location();
@@ -160,7 +157,7 @@ public class AddTrip extends Activity {
 
             String resp = null;
             String url = "https://maps.googleapis.com/maps/api/place/findplacefromtext/json?" +
-                    "key=AIzaSyBy7ENott3vROABHBWhrola9aX1zGUvMtI&" +
+                    "key='key'&" +
                     "inputtype=textquery&" +
                     "fields=geometry,name&" +
                     "input="+strings[0];
@@ -227,7 +224,7 @@ public class AddTrip extends Activity {
         protected String doInBackground(String... strings) {
             String resp = null;
             String url = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?" +
-                    "key=AIzaSyBy7ENott3vROABHBWhrola9aX1zGUvMtI&" +
+                    "key='key'&" +
                     "location="+city.latitude+","+city.longitude+"&"+
                     "radius=15000&"+
                     "type="+strings[0];
