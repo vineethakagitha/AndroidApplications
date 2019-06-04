@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">InClass07</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="currentExp">Current Expenses:</string>
+    <string name="addLabel">Add</string>
+    <string name="addExpTitle">Add An Expense</string>
+    <string name="expNameLabel">Expense Name</string>
+    <string name="catLabel">Category</string>
+    <string name="amountLabel">Amount</string>
+    <string name="addExpLabel">Add Expense</string>
+    <string name="cancelLabel">Cancel</string>
+    <string name="expDetailLabel">Expense Details</string>
+    <string name="nameLabel">Name</string>
+    <string name="dateLabel">Date</string>
+    <string name="amtLabel">Amount</string>
+
+    <string-array name="Categories">
+        <item>Groceries</item>
+        <item>Invoice</item>
+        <item>Transportation</item>
+        <item>Shopping</item>
+        <item>Rent</item>
+        <item>Trips</item>
+        <item>Utilities</item>
+        <item>Other</item>
+    </string-array>
+</resources>

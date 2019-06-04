@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "832391710480",
+    "firebase_url": "https://chat-room-ecd8b.firebaseio.com",
+    "project_id": "chat-room-ecd8b",
+    "storage_bucket": "chat-room-ecd8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832391710480:android:b5070afbbf4a5a27",
+        "android_client_info": {
+          "package_name": "com.example.chatroom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZDIOY-3cv9x10B-n4ckvCBdXOw35v6AU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832391710480-65uuclmf0nm1ngt4ij0v6qbpfqgri0q7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

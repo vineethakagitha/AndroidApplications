@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">InClass09</string>
+    <string name="createContactString">Create New Contact</string>
+    <string name="edit_firstname">First Name</string>
+    <string name="edit_lastname">Last Name</string>
+    <string name="email_edit">Email</string>
+    <string name="password_edit">Password</string>
+    <string name="SignUp_button">Sign Up</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="login_button">Login</string>
+    <string name="edit_name">Name</string>
+    <string name="edit_phone">Phone</string>
+    <string name="submit_button">Submit</string>
+</resources>

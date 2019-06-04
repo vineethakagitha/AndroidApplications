@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ChatRoom</string>
+    <string name="firstnameString">First Name</string>
+    <string name="lastnameString">Last Name</string>
+    <string name="emailString">Email</string>
+    <string name="choosePassString">Choose Password</string>
+    <string name="repeatPassString">Repeat Password</string>
+    <string name="signupString">Sign Up</string>
+    <string name="cancelString">Cancel</string>
+    <string name="passwordString">Password</string>
+    <string name="loginString">Login</string>
+</resources>

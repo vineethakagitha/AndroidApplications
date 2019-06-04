@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">InClass12</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="save_button">Save</string>
+    <string name="visit_button">Visit</string>
+    <string name="dest_city">Destination City</string>
+    <string name="trip_name">Trip Name</string>
+    <string name="categoryString">Category</string>
+    <string-array name="categories">
+        <item>airport</item>
+        <item>amusement_park</item>
+        <item>aquarium</item>
+        <item>car_rental</item>
+        <item>museum</item>
+        <item>police</item>
+        <item>city_hall</item>
+        <item>parking</item>
+    </string-array>
+</resources>

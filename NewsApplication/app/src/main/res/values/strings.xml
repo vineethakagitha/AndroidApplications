@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InClass06</string>
+    <string name="show_Categories">Show Categories</string>
+    <string name="go_label">Go</string>
+</resources>

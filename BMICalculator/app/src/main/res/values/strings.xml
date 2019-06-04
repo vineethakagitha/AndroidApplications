@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">In class 02</string>
+    <string name="BMI">Body Mass Index (BMI)</string>
+    <string name="weightString">Weight</string>
+    <string name="heightString">Height</string>
+    <string name="CalBMI">Calculate BMI</string>
+</resources>

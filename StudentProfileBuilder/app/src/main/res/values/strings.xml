@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">InClass03</string>
+    <string name="deptString">Department :</string>
+    <string name="csString">CS</string>
+    <string name="sisString">SIS</string>
+    <string name="bioString">BIO</string>
+    <string name="otherString">Other</string>
+    <string name="saveString">Save</string>
+    <string name="nameString">Name :</string>
+    <string name="studentID">Student ID :</string>
+    <string name="department">Department :</string>
+    <string name="edit">Edit</string>
+
+</resources>
